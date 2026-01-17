@@ -16,8 +16,8 @@ A command-line calculator application written in Rust that supports mathematical
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd calculator
+git clone https://github.com/Hackb07/Calculator-cli
+cd Calculator-cli
 ```
 
 2. Build the project:
